@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SupplierManagementSystem2.props" />
+</Project>
